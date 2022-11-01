@@ -1,2 +1,4 @@
-# -
-This course covers information security technology and its applications.
+# 情報セキュリティー応用
+
+This course covers information security technology and its applications. From the basics of hardware and software security where security is implemented, security policy, specific security measures, security management, and security operation techniques will be explained.
+　First, students learn threat analysis methods to identify security threats to systems, and tamper attacks and their countermeasures are explained as threats to hardware and software. Public key authentication infrastructure will be introduced, using SSL/TLS, the protocol for encrypted communication paths used in encrypted email and web browsers, as an example. In addition, we will learn about OS access control technology, which is the basis for Android and iOS security mechanisms. Finally, case studies related to these learned techniques and knowledge will be presented and security issues and countermeasures encountered in the case studies will be discussed.
